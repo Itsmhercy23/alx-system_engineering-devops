@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This Displays 'Best School'. Displays Hi on the 9th iteration
+# Displays 'Best School'. Displays Hi on the 9th iteration
 
 index=0
 
@@ -8,7 +8,7 @@ do
   if [ $index -eq 9 ]
   then
     echo "Hi"
-  if
+  fi
   echo "Best School"
   (( index++ ))
 done
