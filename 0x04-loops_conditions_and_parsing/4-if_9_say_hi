@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Displays 'Best School'. Displays Hi on the 9th iteration
+# This Displays 'Best School'. Displays Hi on the 9th iteration
 
 index=0
 
